@@ -66,7 +66,7 @@ Contributions to the Student Performance Management Model project are welcome! I
 
 5. Open a pull request, describing your changes and the motivation behind them.
 
-Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+Please refer to our [Contribution Guidelines](contribution.md) for more details.
 
 ## License
 
