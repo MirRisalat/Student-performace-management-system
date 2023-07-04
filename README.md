@@ -7,7 +7,6 @@ The Student Performance Management Model is a Python-based application that allo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -67,10 +66,6 @@ Contributions to the Student Performance Management Model project are welcome! I
 5. Open a pull request, describing your changes and the motivation behind them.
 
 Please refer to our [Contribution Guidelines](contribution.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as permitted by the license.
 
 ```
 
