@@ -21,8 +21,8 @@ The Student Performance Management Model is a Python-based application that allo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-management-model.git
-   cd student-performance-management-model
+   git clone https://github.com/MirRisalat/Student-performance-management-system.git
+   cd student-performance-management-system
    ```
 
 2. Install the required dependencies:
