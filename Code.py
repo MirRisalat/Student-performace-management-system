@@ -13,7 +13,7 @@ import numpy as np
 #import random as rnd
 import warnings as w
 w.filterwarnings('ignore')
-data = pd.read_csv("C:/Users/MirRisalat/PycharmProjects/pythonProject/AI-Data.csv")
+data = pd.read_csv("C:/Users/MirRisalat/PycharmProjects/pythonProject/Data.csv")
 
 
 ch = 0
